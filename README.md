@@ -1,1 +1,2 @@
 # zcr
+print("hello world")
